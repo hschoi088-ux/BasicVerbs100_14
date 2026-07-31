@@ -830,6 +830,7 @@
             if (e.ctrlKey && (e.key === 'c' || e.key === 'u' || e.key === 's')) e.preventDefault();
             if (e.key === 'F12') e.preventDefault();
         });
-    </script>
+</script>
+<script src="https://hschoi088-ux.github.io/StudianClass_BasicVerbs100/track.js"></script>
 </body>
 </html>
